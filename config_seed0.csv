@@ -1,0 +1,9 @@
+D,100
+N,100
+T_size,12
+T_detail,"[2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 4]"
+p,0.8
+k,2
+Customer_file,customer_seed0.csv
+Result_file,simulation_result.csv
+Summary_file,simulation_summary.csv
