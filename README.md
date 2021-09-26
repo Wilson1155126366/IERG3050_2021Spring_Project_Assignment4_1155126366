@@ -4,7 +4,7 @@ Project guide:
 https://github.com/Wilson1155126366/IERG3050_2021Spring_Project_Assignment4_1155126366/blob/f1f0578575b8c314bf22ff7ec052b33e469db496/IERG3050_2021Spring_Assignment4.pdf
 
 Project Report:
-
+https://github.com/Wilson1155126366/IERG3050_2021Spring_Project_Assignment4_1155126366/blob/e3c19e28dcf6dd95b4d589481c067f6120be3e22/HW4_report.pdf
 
 Project Evaluation from Prof:
 https://github.com/Wilson1155126366/IERG3050_2021Spring_Project_Assignment4_1155126366/blob/b4229f4078868da5366367809fc13f67b7fc138c/Project%20Evaluation%20from%20Prof.PNG
